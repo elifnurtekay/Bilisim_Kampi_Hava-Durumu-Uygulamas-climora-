@@ -1,0 +1,23 @@
+[
+  {
+    "city": "istanbul",
+    "source": "https://commons.wikimedia.org/wiki/File:Historical_peninsula_and_modern_skyline_of_Istanbul.jpg",
+    "author": "Hunanuk",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "city": "ankara",
+    "source": "https://commons.wikimedia.org/wiki/File:Ankara_from_bus_station.jpg",
+    "author": "Boubacar Amadou Cisse",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "city": "izmir",
+    "source": "https://commons.wikimedia.org/wiki/File:Cumhuriyet_Square.jpg",
+    "author": "Michael ksk",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  }
+]

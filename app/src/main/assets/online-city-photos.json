@@ -1,0 +1,840 @@
+[
+  {
+    "names": [
+      "Adıyaman"
+    ],
+    "place": "Adıyaman",
+    "latitude": 37.76388889,
+    "longitude": 38.27777778,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/AdiyamanView.jpg/960px-AdiyamanView.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Vav",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:AdiyamanView.jpg"
+  },
+  {
+    "names": [
+      "Aydın"
+    ],
+    "place": "Aydın",
+    "latitude": 37.728333,
+    "longitude": 27.937222,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/MonumentAyd%C4%B1n_%283%29.JPG/960px-MonumentAyd%C4%B1n_%283%29.JPG?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "CeeGee",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MonumentAyd%C4%B1n_(3).JPG"
+  },
+  {
+    "names": [
+      "Ağrı"
+    ],
+    "place": "Ağrı",
+    "latitude": 39.71861111,
+    "longitude": 43.05083333,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/%C4%B0shakpasa_Saray%C4%B1.jpg/960px-%C4%B0shakpasa_Saray%C4%B1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Volcanicaa",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C4%B0shakpasa_Saray%C4%B1.jpg"
+  },
+  {
+    "names": [
+      "Bartın"
+    ],
+    "place": "Bartın",
+    "latitude": 41.63444444,
+    "longitude": 32.3375,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Bartin_SehirMerkezi.jpg/960px-Bartin_SehirMerkezi.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Wixama",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bartin_SehirMerkezi.jpg"
+  },
+  {
+    "names": [
+      "Bayburt"
+    ],
+    "place": "Bayburt",
+    "latitude": 40.25972222,
+    "longitude": 40.22777778,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Bayburt%2C_69000_Bayburt_Merkez-Bayburt%2C_Turkey_-_panoramio_%284%29.jpg/960px-Bayburt%2C_69000_Bayburt_Merkez-Bayburt%2C_Turkey_-_panoramio_%284%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Ben Bender",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bayburt,_69000_Bayburt_Merkez-Bayburt,_Turkey_-_panoramio_(4).jpg"
+  },
+  {
+    "names": [
+      "Bilecik"
+    ],
+    "place": "Bilecik",
+    "latitude": 40.14305556,
+    "longitude": 29.97916667,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Bilecik.jpg/960px-Bilecik.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Samet Berber",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bilecik.jpg"
+  },
+  {
+    "names": [
+      "Burdur"
+    ],
+    "place": "Burdur",
+    "latitude": 37.71944444,
+    "longitude": 30.28333333,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Burdur_manzara_-_panoramio.jpg/960px-Burdur_manzara_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Nihat1988",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Burdur_manzara_-_panoramio.jpg"
+  },
+  {
+    "names": [
+      "Düzce"
+    ],
+    "place": "Düzce",
+    "latitude": 40.84166667,
+    "longitude": 31.15833333,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/645x344-1573480687396.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "author": "sabah gazetesi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:645x344-1573480687396.jpg"
+  },
+  {
+    "names": [
+      "Elazığ"
+    ],
+    "place": "Elazığ",
+    "latitude": 38.67444444,
+    "longitude": 39.22277778,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Elaz%C4%B1%C4%9F_City_Center.jpg/960px-Elaz%C4%B1%C4%9F_City_Center.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Taha Koçak",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Elaz%C4%B1%C4%9F_City_Center.jpg"
+  },
+  {
+    "names": [
+      "Eskişehir"
+    ],
+    "place": "Eskişehir",
+    "latitude": 39.77138889,
+    "longitude": 30.51833333,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Sazova_Park_2.jpg/960px-Sazova_Park_2.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "BSRF",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sazova_Park_2.jpg"
+  },
+  {
+    "names": [
+      "Giresun"
+    ],
+    "place": "Giresun",
+    "latitude": 40.91527778,
+    "longitude": 38.38944444,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Giresun_Kalesinden_Giresun-Do%C4%9Fu_Taraf%C4%B1.jpg/960px-Giresun_Kalesinden_Giresun-Do%C4%9Fu_Taraf%C4%B1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Mkadioglu2020",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Giresun_Kalesinden_Giresun-Do%C4%9Fu_Taraf%C4%B1.jpg"
+  },
+  {
+    "names": [
+      "Gümüşhane"
+    ],
+    "place": "Gümüşhane",
+    "latitude": 40.45972222,
+    "longitude": 39.47777778,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/G%C3%BCm%C3%BC%C5%9Fhane_Genel.JPG/960px-G%C3%BCm%C3%BC%C5%9Fhane_Genel.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Ghanevalilik",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:G%C3%BCm%C3%BC%C5%9Fhane_Genel.JPG"
+  },
+  {
+    "names": [
+      "Hakkâri"
+    ],
+    "place": "Hakkâri",
+    "latitude": 37.58333333,
+    "longitude": 43.73333333,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Hakkari.jpg/960px-Hakkari.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "VOA",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Hakkari.jpg"
+  },
+  {
+    "names": [
+      "Kütahya"
+    ],
+    "place": "Kütahya",
+    "latitude": 39.41666667,
+    "longitude": 29.98333333,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/K%C3%BCtahya_ulucami.png/960px-K%C3%BCtahya_ulucami.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Unknown authorUnknown author",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:K%C3%BCtahya_ulucami.png"
+  },
+  {
+    "names": [
+      "Kırklareli"
+    ],
+    "place": "Kırklareli",
+    "latitude": 41.73472222,
+    "longitude": 27.22527778,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/K%C4%B1rklareli_5195.jpg/960px-K%C4%B1rklareli_5195.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "User:Darwinek",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:K%C4%B1rklareli_5195.jpg"
+  },
+  {
+    "names": [
+      "Kırıkkale"
+    ],
+    "place": "Kırıkkale",
+    "latitude": 39.84,
+    "longitude": 33.50527778,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/K%C4%B1r%C4%B1kkale_1_%282013%29_-_panoramio.jpg/960px-K%C4%B1r%C4%B1kkale_1_%282013%29_-_panoramio.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "71ergun",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:K%C4%B1r%C4%B1kkale_1_(2013)_-_panoramio.jpg"
+  },
+  {
+    "names": [
+      "Kırşehir"
+    ],
+    "place": "Kırşehir",
+    "latitude": 39.14555556,
+    "longitude": 34.16083333,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Kentpark_2.jpg/960px-Kentpark_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Tevfik Teker",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kentpark_2.jpg"
+  },
+  {
+    "names": [
+      "Muş"
+    ],
+    "place": "Muş",
+    "latitude": 38.73333333,
+    "longitude": 41.49111111,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Mush_1213.jpg/960px-Mush_1213.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mush_1213.jpg"
+  },
+  {
+    "names": [
+      "Nevşehir"
+    ],
+    "place": "Nevşehir",
+    "latitude": 38.61666667,
+    "longitude": 34.71666667,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Nevsehirpanorama.jpg/960px-Nevsehirpanorama.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "NuriCanY",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nevsehirpanorama.jpg"
+  },
+  {
+    "names": [
+      "Niğde"
+    ],
+    "place": "Niğde",
+    "latitude": 37.96666667,
+    "longitude": 34.67916667,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Nigde_Kale_1228.jpg/960px-Nigde_Kale_1228.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nigde_Kale_1228.jpg"
+  },
+  {
+    "names": [
+      "Sakarya",
+      "Adapazarı"
+    ],
+    "place": "Sakarya",
+    "latitude": 40.69722222,
+    "longitude": 30.45666667,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Hisar_Tepesi%2C_Tarakl%C4%B1.jpg/960px-Hisar_Tepesi%2C_Tarakl%C4%B1.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Acar54",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hisar_Tepesi,_Tarakl%C4%B1.jpg"
+  },
+  {
+    "names": [
+      "Siirt"
+    ],
+    "place": "Siirt",
+    "latitude": 37.925,
+    "longitude": 41.94583333,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/S%C3%AArt.jpg/960px-S%C3%AArt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Dûrzan Cîrano",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:S%C3%AArt.jpg"
+  },
+  {
+    "names": [
+      "Sinop",
+      "Sinop, Turkey"
+    ],
+    "place": "Sinop, Turkey",
+    "latitude": 42.02666667,
+    "longitude": 35.15111111,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Sinop_Overview_2009.JPG/960px-Sinop_Overview_2009.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Bjørn Christian Tørrissen",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sinop_Overview_2009.JPG"
+  },
+  {
+    "names": [
+      "Yalova"
+    ],
+    "place": "Yalova",
+    "latitude": 40.65833333,
+    "longitude": 29.27,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Departing_Yalova.JPG/960px-Departing_Yalova.JPG?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Annikat53",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Departing_Yalova.JPG"
+  },
+  {
+    "names": [
+      "Şırnak"
+    ],
+    "place": "Şırnak",
+    "latitude": 37.52,
+    "longitude": 42.459,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/%C5%9E%C4%B1rnak_%C5%9Fehir_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg/960px-%C5%9E%C4%B1rnak_%C5%9Fehir_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Zmangeldi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%C5%9E%C4%B1rnak_%C5%9Fehir_g%C3%B6r%C3%BCn%C3%BCm%C3%BC.jpg"
+  },
+  {
+    "names": [
+      "Amsterdam"
+    ],
+    "place": "Amsterdam",
+    "latitude": 52.37277778,
+    "longitude": 4.89361111,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Imagen_de_los_canales_conc%C3%A9ntricos_en_%C3%81msterdam.png/960px-Imagen_de_los_canales_conc%C3%A9ntricos_en_%C3%81msterdam.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Andrés Barrios",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Imagen_de_los_canales_conc%C3%A9ntricos_en_%C3%81msterdam.png"
+  },
+  {
+    "names": [
+      "Atina"
+    ],
+    "place": "Atina",
+    "latitude": 37.98416667,
+    "longitude": 23.72805556,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/La_fa%C3%A7ade_du_Zapp%C3%A9ion_%28Ath%C3%A8nes%29_%2830177808993%29.jpg/960px-La_fa%C3%A7ade_du_Zapp%C3%A9ion_%28Ath%C3%A8nes%29_%2830177808993%29.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Jean-Pierre Dalbéra from Paris, France",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:La_fa%C3%A7ade_du_Zapp%C3%A9ion_(Ath%C3%A8nes)_(30177808993).jpg"
+  },
+  {
+    "names": [
+      "Bakü",
+      "Baku"
+    ],
+    "place": "Baku",
+    "latitude": 40.37555556,
+    "longitude": 49.8325,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Baku_Montage.jpg/960px-Baku_Montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "See above. Compilation by Interfase",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Baku_Montage.jpg"
+  },
+  {
+    "names": [
+      "Bangkok"
+    ],
+    "place": "Bangkok",
+    "latitude": 13.7525,
+    "longitude": 100.49416667,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/4Y1A1159_Bangkok_%2833536795515%29.jpg/960px-4Y1A1159_Bangkok_%2833536795515%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Ninara from Helsinki, Finland",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:4Y1A1159_Bangkok_(33536795515).jpg"
+  },
+  {
+    "names": [
+      "Barselona"
+    ],
+    "place": "Barselona",
+    "latitude": 41.38277778,
+    "longitude": 2.17694444,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Aerial_view_of_Barcelona%2C_Spain_%2851227309370%29_edited.jpg/960px-Aerial_view_of_Barcelona%2C_Spain_%2851227309370%29_edited.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "dronepicr",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Barcelona,_Spain_(51227309370)_edited.jpg"
+  },
+  {
+    "names": [
+      "Berlin"
+    ],
+    "place": "Berlin",
+    "latitude": 52.52,
+    "longitude": 13.405,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Museumsinsel_Berlin_Juli_2021_1_%28cropped%29_b.jpg/960px-Museumsinsel_Berlin_Juli_2021_1_%28cropped%29_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "File:Museumsinsel Berlin Juli 2021 1 (cropped).jpg: Kasa Fue\nderivative work: Georgfotoart",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Museumsinsel_Berlin_Juli_2021_1_(cropped)_b.jpg"
+  },
+  {
+    "names": [
+      "Budapeşte",
+      "Budapest"
+    ],
+    "place": "Budapest",
+    "latitude": 47.4925,
+    "longitude": 19.05138889,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/View_from_Gell%C3%A9rt_Hill_to_the_Danube%2C_Hungary_-_Budapest_%2828493220635%29.jpg/960px-View_from_Gell%C3%A9rt_Hill_to_the_Danube%2C_Hungary_-_Budapest_%2828493220635%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Visions of Domino",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_from_Gell%C3%A9rt_Hill_to_the_Danube,_Hungary_-_Budapest_(28493220635).jpg"
+  },
+  {
+    "names": [
+      "Buenos Aires"
+    ],
+    "place": "Buenos Aires",
+    "latitude": -34.60388889,
+    "longitude": -58.38138889,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg/960px-Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Deensel",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Puerto_Madero,_Buenos_Aires_(40689219792)_(cropped).jpg"
+  },
+  {
+    "names": [
+      "Cape Town"
+    ],
+    "place": "Cape Town",
+    "latitude": -33.92527778,
+    "longitude": 18.42388889,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Camps_bay_%2853460319478%29_%28cropped%29.jpg/960px-Camps_bay_%2853460319478%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Der Berzerker from Washington, DC, USA",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Camps_bay_(53460319478)_(cropped).jpg"
+  },
+  {
+    "names": [
+      "Helsinki"
+    ],
+    "place": "Helsinki",
+    "latitude": 60.17083333,
+    "longitude": 24.9375,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Suomenlinna_%28cropped%29.jpg/960px-Suomenlinna_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Michal Pise, Michal.Pise",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Suomenlinna_(cropped).jpg"
+  },
+  {
+    "names": [
+      "Kahire",
+      "Cairo"
+    ],
+    "place": "Cairo",
+    "latitude": 30.04444444,
+    "longitude": 31.23583333,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Cairo_From_Tower_%28cropped%29.jpg/960px-Cairo_From_Tower_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Wael El Sisi",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cairo_From_Tower_(cropped).jpg"
+  },
+  {
+    "names": [
+      "Kopenhag"
+    ],
+    "place": "Kopenhag",
+    "latitude": 55.67611111,
+    "longitude": 12.56833333,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Christiansborg_fra_Nikolaj_Kirken.jpg/960px-Christiansborg_fra_Nikolaj_Kirken.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Mik Hartwell from Copenhagen, Denmark",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Christiansborg_fra_Nikolaj_Kirken.jpg"
+  },
+  {
+    "names": [
+      "Lizbon",
+      "Lisbon"
+    ],
+    "place": "Lisbon",
+    "latitude": 38.72527778,
+    "longitude": -9.15,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Lisboa_-_Portugal_%2852597836992%29.jpg/960px-Lisboa_-_Portugal_%2852597836992%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Vitor Oliveira from Torres Vedras, PORTUGAL",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lisboa_-_Portugal_(52597836992).jpg"
+  },
+  {
+    "names": [
+      "Londra",
+      "London"
+    ],
+    "place": "London",
+    "latitude": 51.50722222,
+    "longitude": -0.1275,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/960px-London_Skyline_%28125508655%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "\nIlya Grigorik",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:London_Skyline_(125508655).jpeg"
+  },
+  {
+    "names": [
+      "Los Angeles"
+    ],
+    "place": "Los Angeles",
+    "latitude": 34.05,
+    "longitude": -118.25,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/960px-Hollywood_sign_%288485145044%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Gnaphron",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hollywood_sign_(8485145044).jpg"
+  },
+  {
+    "names": [
+      "Madrid"
+    ],
+    "place": "Madrid",
+    "latitude": 40.4169,
+    "longitude": -3.7033,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Madrid_-_Sky_Bar_360%C2%BA_%28Hotel_Riu_Plaza_Espa%C3%B1a%29%2C_vistas_19.jpg/960px-Madrid_-_Sky_Bar_360%C2%BA_%28Hotel_Riu_Plaza_Espa%C3%B1a%29%2C_vistas_19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Zarateman",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Madrid_-_Sky_Bar_360%C2%BA_(Hotel_Riu_Plaza_Espa%C3%B1a),_vistas_19.jpg"
+  },
+  {
+    "names": [
+      "Marakeş",
+      "Marrakesh"
+    ],
+    "place": "Marrakesh",
+    "latitude": 31.63,
+    "longitude": -8.00888889,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Marrakech%2C_Morocco_%285421595453%29_%285%29.jpg/960px-Marrakech%2C_Morocco_%285421595453%29_%285%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "YoTuT from United States",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Marrakech,_Morocco_(5421595453)_(5).jpg"
+  },
+  {
+    "names": [
+      "Melbourne"
+    ],
+    "place": "Melbourne",
+    "latitude": -37.81416667,
+    "longitude": 144.96305556,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Melbourne_skyline_sor.jpg/960px-Melbourne_skyline_sor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Melbpal",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Melbourne_skyline_sor.jpg"
+  },
+  {
+    "names": [
+      "New York",
+      "New York City"
+    ],
+    "place": "New York City",
+    "latitude": 40.7128,
+    "longitude": -74.0061,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg/960px-View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Dllu",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg"
+  },
+  {
+    "names": [
+      "Oslo"
+    ],
+    "place": "Oslo",
+    "latitude": 59.91333333,
+    "longitude": 10.73888889,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Nationaltheatret_evening.jpg/960px-Nationaltheatret_evening.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Orjanarvola",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Nationaltheatret_evening.jpg"
+  },
+  {
+    "names": [
+      "Paris"
+    ],
+    "place": "Paris",
+    "latitude": 48.8567,
+    "longitude": 2.3508,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/960px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Yann Caradec from Paris, France",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg"
+  },
+  {
+    "names": [
+      "Pekin",
+      "Beijing"
+    ],
+    "place": "Beijing",
+    "latitude": 39.90666667,
+    "longitude": 116.3975,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Skyline_of_Beijing_CBD_with_B-5906_approaching_%2820211016171955%29_%281%29.jpg/960px-Skyline_of_Beijing_CBD_with_B-5906_approaching_%2820211016171955%29_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "N509FZ",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Skyline_of_Beijing_CBD_with_B-5906_approaching_(20211016171955)_(1).jpg"
+  },
+  {
+    "names": [
+      "Prag",
+      "Prague"
+    ],
+    "place": "Prague",
+    "latitude": 50.0875,
+    "longitude": 14.42138889,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Prague_%286365119737%29.jpg/960px-Prague_%286365119737%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Moyan Brenn from Italy",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Prague_(6365119737).jpg"
+  },
+  {
+    "names": [
+      "Rio de Janeiro"
+    ],
+    "place": "Rio de Janeiro",
+    "latitude": -22.91111111,
+    "longitude": -43.20555556,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Cidade_Maravilhosa.jpg/960px-Cidade_Maravilhosa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Rafael Rabello de Barros",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cidade_Maravilhosa.jpg"
+  },
+  {
+    "names": [
+      "Roma",
+      "Rome"
+    ],
+    "place": "Rome",
+    "latitude": 41.89333333,
+    "longitude": 12.48277778,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg/960px-Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Diliff",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Trevi_Fountain,_Rome,_Italy_2_-_May_2007.jpg"
+  },
+  {
+    "names": [
+      "San Francisco"
+    ],
+    "place": "San Francisco",
+    "latitude": 37.7775,
+    "longitude": -122.41638889,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Zeppelin-ride-020100925-195_%285029394846%29.jpg/960px-Zeppelin-ride-020100925-195_%285029394846%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Craig Howell from San Carlos, CA, USA",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Zeppelin-ride-020100925-195_(5029394846).jpg"
+  },
+  {
+    "names": [
+      "Saraybosna",
+      "Sarajevo"
+    ],
+    "place": "Sarajevo",
+    "latitude": 43.85638889,
+    "longitude": 18.41305556,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Sarajevo_City_Panorama.JPG/960px-Sarajevo_City_Panorama.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Julian Nyča",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sarajevo_City_Panorama.JPG"
+  },
+  {
+    "names": [
+      "Seul",
+      "Seoul"
+    ],
+    "place": "Seoul",
+    "latitude": 37.56,
+    "longitude": 126.99,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg/960px-%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Eunmi Park",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg"
+  },
+  {
+    "names": [
+      "Sidney",
+      "Sydney"
+    ],
+    "place": "Sydney",
+    "latitude": -33.86777778,
+    "longitude": 151.21,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg/960px-Sydney_Opera_House_and_Harbour_Bridge_Dusk_%282%29_2019-06-21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Benh LIEU SONG (Flickr)",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_and_Harbour_Bridge_Dusk_(2)_2019-06-21.jpg"
+  },
+  {
+    "names": [
+      "Singapur",
+      "Singapore"
+    ],
+    "place": "Singapore",
+    "latitude": 1.28333333,
+    "longitude": 103.83333333,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/960px-Flag_of_Singapore.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Original: Government of Singapore Vector:  Zscout370",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Singapore.svg"
+  },
+  {
+    "names": [
+      "Stockholm"
+    ],
+    "place": "Stockholm",
+    "latitude": 59.32944444,
+    "longitude": 18.06861111,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Royal_Dramatic_Theatre_Stockholm.jpg/960px-Royal_Dramatic_Theatre_Stockholm.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Steven Lek",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Royal_Dramatic_Theatre_Stockholm.jpg"
+  },
+  {
+    "names": [
+      "Tiflis",
+      "Tbilisi"
+    ],
+    "place": "Tbilisi",
+    "latitude": 41.7225,
+    "longitude": 44.7925,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/View_of_Tbilisi_from_Tabori_Church_2023-10-08-2.jpg/960px-View_of_Tbilisi_from_Tabori_Church_2023-10-08-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Alexey Komarov",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:View_of_Tbilisi_from_Tabori_Church_2023-10-08-2.jpg"
+  },
+  {
+    "names": [
+      "Tokyo"
+    ],
+    "place": "Tokyo",
+    "latitude": 35.68972222,
+    "longitude": 139.69222222,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg/960px-Skyscrapers_of_Shinjuku_2009_January.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Morio",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Skyscrapers_of_Shinjuku_2009_January.jpg"
+  },
+  {
+    "names": [
+      "Toronto"
+    ],
+    "place": "Toronto",
+    "latitude": 43.6525,
+    "longitude": -79.38166667,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Toronto_Skyline_from_Snake_Island%2C_September_11_2026_%2801%29.jpg/960px-Toronto_Skyline_from_Snake_Island%2C_September_11_2026_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Dillan Payne",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toronto_Skyline_from_Snake_Island,_September_11_2026_(01).jpg"
+  },
+  {
+    "names": [
+      "Vancouver"
+    ],
+    "place": "Vancouver",
+    "latitude": 49.26083333,
+    "longitude": -123.11388889,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Skyline_of_Vancouver%2C_Canada.jpg/960px-Skyline_of_Vancouver%2C_Canada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Quintin Soloviev",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Skyline_of_Vancouver,_Canada.jpg"
+  },
+  {
+    "names": [
+      "Varşova",
+      "Warsaw"
+    ],
+    "place": "Warsaw",
+    "latitude": 52.23,
+    "longitude": 21.01111111,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Aleja_Niepdleglosci_Warsaw_2022_aerial_%28cropped%29.jpg/960px-Aleja_Niepdleglosci_Warsaw_2022_aerial_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Emptywords",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aleja_Niepdleglosci_Warsaw_2022_aerial_(cropped).jpg"
+  },
+  {
+    "names": [
+      "Viyana",
+      "Vienna"
+    ],
+    "place": "Vienna",
+    "latitude": 48.2083,
+    "longitude": 16.3725,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Schoenbrunn_philharmoniker_2012.jpg/960px-Schoenbrunn_philharmoniker_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Superbass",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Schoenbrunn_philharmoniker_2012.jpg"
+  },
+  {
+    "names": [
+      "Zürih",
+      "Zurich"
+    ],
+    "place": "Zurich",
+    "latitude": 47.37444444,
+    "longitude": 8.54111111,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Altstadt_Z%C3%BCrich_2015.jpg/960px-Altstadt_Z%C3%BCrich_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Thomas Wolf, www.foto-tw.de",
+    "license": "CC BY-SA 3.0 de",
+    "source": "https://commons.wikimedia.org/wiki/File:Altstadt_Z%C3%BCrich_2015.jpg"
+  },
+  {
+    "names": [
+      "Üsküp",
+      "Skopje"
+    ],
+    "place": "Skopje",
+    "latitude": 41.99611111,
+    "longitude": 21.43166667,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Skopje_view_from_Kale_3.jpg/960px-Skopje_view_from_Kale_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Skopje_view_from_Kale_3.jpg"
+  },
+  {
+    "names": [
+      "Ardahan"
+    ],
+    "place": "Ardahan",
+    "latitude": 41.11111111,
+    "longitude": 42.70222222,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Ardahan.JPG/960px-Ardahan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "Jaba1977",
+    "license": "Attribution",
+    "source": "https://commons.wikimedia.org/wiki/File:Ardahan.JPG"
+  },
+  {
+    "names": [
+      "Bolu"
+    ],
+    "place": "Bolu",
+    "latitude": 40.73472222,
+    "longitude": 31.6075,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/TR_Bolu_asv2021-10_img23_Beyaz%C4%B1t_Mosque.jpg/960px-TR_Bolu_asv2021-10_img23_Beyaz%C4%B1t_Mosque.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "author": "A.Savin",
+    "license": "FAL",
+    "source": "https://commons.wikimedia.org/wiki/File:TR_Bolu_asv2021-10_img23_Beyaz%C4%B1t_Mosque.jpg"
+  },
+  {
+    "names": [
+      "Kocaeli",
+      "İzmit"
+    ],
+    "place": "Kocaeli",
+    "latitude": 40.765278,
+    "longitude": 29.940833,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Eskihisarkale3k.jpg?utm_source=tr.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "author": "No machine-readable author provided. Bozkurttt assumed (based on copyright claims).",
+    "license": "FAL",
+    "source": "https://commons.wikimedia.org/wiki/File:Eskihisarkale3k.jpg"
+  },
+  {
+    "names": [
+      "Dubai"
+    ],
+    "place": "Dubai",
+    "latitude": 25.204722,
+    "longitude": 55.270833,
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/The_view_of_Dubai_Creek.jpg/960px-The_view_of_Dubai_Creek.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "author": "Phil6007",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_view_of_Dubai_Creek.jpg"
+  }
+]

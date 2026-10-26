@@ -1,0 +1,542 @@
+[
+  {
+    "city": "Adana",
+    "resource": "city_01",
+    "source": "https://commons.wikimedia.org/wiki/File:Adana_Roman_Bridge_(Ta%C5%9Fk%C3%B6pr%C3%BC),_Turkey_(36694356272).jpg",
+    "author": "Carole Raddato from FRANKFURT, Germany",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "latitude": 37,
+    "longitude": 35.32133333
+  },
+  {
+    "city": "Afyonkarahisar",
+    "resource": "city_03",
+    "source": "https://commons.wikimedia.org/wiki/File:Burgberg_Afyonkarahisar_01.jpg",
+    "author": "Ingeborg Simon",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "latitude": 38.75777778,
+    "longitude": 30.53861111
+  },
+  {
+    "city": "Amasya",
+    "resource": "city_05",
+    "source": "https://commons.wikimedia.org/wiki/File:Ye%C5%9Fil%C4%B1rmak2.jpg",
+    "author": "Ahmtzngn34",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 40.65,
+    "longitude": 35.83305556
+  },
+  {
+    "city": "Ankara",
+    "resource": "city_06",
+    "source": "https://commons.wikimedia.org/wiki/File:Ankara_from_bus_station.jpg",
+    "author": "Boubacar Amadou Cisse",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 39.92888889,
+    "longitude": 32.85472222
+  },
+  {
+    "city": "Antalya",
+    "resource": "city_07",
+    "source": "https://commons.wikimedia.org/wiki/File:Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg",
+    "author": "Esginmurat",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 36.88694444,
+    "longitude": 30.70333333
+  },
+  {
+    "city": "Artvin",
+    "resource": "city_08",
+    "source": "https://commons.wikimedia.org/wiki/File:A%C3%87%C3%9C_%C5%9Eehir_Yerle%C5%9Fkesi.jpg",
+    "author": "Cagriaksu25",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 41.18333333,
+    "longitude": 41.81805556
+  },
+  {
+    "city": "Balıkesir",
+    "resource": "city_10",
+    "source": "https://commons.wikimedia.org/wiki/File:Bal%C4%B1kesirSaatKulesi.jpg",
+    "author": "Hustle77",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 39.64722222,
+    "longitude": 27.88805556
+  },
+  {
+    "city": "Bingöl",
+    "resource": "city_12",
+    "source": "https://commons.wikimedia.org/wiki/File:Bingolcitycenter.jpg",
+    "author": "Bingolll",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 38.88611111,
+    "longitude": 40.50166667
+  },
+  {
+    "city": "Bitlis",
+    "resource": "city_13",
+    "source": "https://commons.wikimedia.org/wiki/File:Bitlis_Montage.jpg",
+    "author": "See above",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 38.4,
+    "longitude": 42.10833333
+  },
+  {
+    "city": "Bursa",
+    "resource": "city_16",
+    "source": "https://commons.wikimedia.org/wiki/File:Bursa_image.jpg",
+    "author": "Metuboy",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 40.19722222,
+    "longitude": 29.06222222
+  },
+  {
+    "city": "Çanakkale",
+    "resource": "city_17",
+    "source": "https://commons.wikimedia.org/wiki/File:Havadan_cnk.jpg",
+    "author": "Myamya",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "latitude": 40.15194444,
+    "longitude": 26.40555556
+  },
+  {
+    "city": "Çankırı",
+    "resource": "city_18",
+    "source": "https://commons.wikimedia.org/wiki/File:General_view_of_%C3%87ank%C4%B1r%C4%B1.jpeg",
+    "author": "XperfectTR",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "latitude": 40.59861111,
+    "longitude": 33.61916667
+  },
+  {
+    "city": "Çorum",
+    "resource": "city_19",
+    "source": "https://commons.wikimedia.org/wiki/File:CorumMuseum1.jpg",
+    "author": "Klaus-Peter Simon",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "latitude": 40.55,
+    "longitude": 34.95388889
+  },
+  {
+    "city": "Denizli",
+    "resource": "city_20",
+    "source": "https://commons.wikimedia.org/wiki/File:Pamukale_Turkey_2013_4.jpg",
+    "author": "Karelj",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "latitude": 37.78333333,
+    "longitude": 29.09638889
+  },
+  {
+    "city": "Diyarbakır",
+    "resource": "city_21",
+    "source": "https://commons.wikimedia.org/wiki/File:Goletli_Park,_Diyarbakir.jpg",
+    "author": "Cemallamec",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 37.91,
+    "longitude": 40.24
+  },
+  {
+    "city": "Edirne",
+    "resource": "city_22",
+    "source": "https://commons.wikimedia.org/wiki/File:Selimiye_Mosque_and_The_Statue_of_Architect_Sinan_-_panoramio.jpg",
+    "author": "Tevfik Teker",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "latitude": 41.67694444,
+    "longitude": 26.55555556
+  },
+  {
+    "city": "Erzincan",
+    "resource": "city_24",
+    "source": "https://commons.wikimedia.org/wiki/File:Erzincanmerkezi.jpg",
+    "author": "Erzincann",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 39.74638889,
+    "longitude": 39.49138889
+  },
+  {
+    "city": "Erzurum",
+    "resource": "city_25",
+    "source": "https://commons.wikimedia.org/wiki/File:Erzurum_Citadel_-_Erzurum_Kalesi_01.jpg",
+    "author": "Zeynel Cebeci",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 39.90861111,
+    "longitude": 41.27694444
+  },
+  {
+    "city": "Gaziantep",
+    "resource": "city_27",
+    "source": "https://commons.wikimedia.org/wiki/File:AntepKale2_(cropped).jpg",
+    "author": "Klaus-Peter Simon",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "latitude": 37.06583333,
+    "longitude": 37.37805556
+  },
+  {
+    "city": "Antakya",
+    "resource": "city_31",
+    "source": "https://commons.wikimedia.org/wiki/File:Antakya_Views_from_hill_at_SE_in_1990%27s_05.jpg",
+    "author": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 36.2025,
+    "longitude": 36.16055556
+  },
+  {
+    "city": "Isparta",
+    "resource": "city_32",
+    "source": "https://commons.wikimedia.org/wiki/File:DaglardanIsparta.jpg",
+    "author": "Isparta at Turkish Wikipedia",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "latitude": 37.76472222,
+    "longitude": 30.55666667
+  },
+  {
+    "city": "Mersin",
+    "resource": "city_33",
+    "source": "https://commons.wikimedia.org/wiki/File:Mersin-tekneler.jpg",
+    "author": "Mersin Page",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "latitude": 36.79444444,
+    "longitude": 34.62722222
+  },
+  {
+    "city": "İzmir",
+    "resource": "city_35",
+    "source": "https://commons.wikimedia.org/wiki/File:Cumhuriyet_Square.jpg",
+    "author": "Michael ksk",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "latitude": 38.42444444,
+    "longitude": 27.13222222
+  },
+  {
+    "city": "Kars",
+    "resource": "city_36",
+    "source": "https://commons.wikimedia.org/wiki/File:Holy_Apostles_Church_of_Kars_001.jpg",
+    "author": "Ben Men Lyun",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 40.60777778,
+    "longitude": 43.09583333
+  },
+  {
+    "city": "Kastamonu",
+    "resource": "city_37",
+    "source": "https://commons.wikimedia.org/wiki/File:Kastamonu1.jpg",
+    "author": "Bertramz",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "latitude": 41.37638889,
+    "longitude": 33.77638889
+  },
+  {
+    "city": "Kayseri",
+    "resource": "city_38",
+    "source": "https://commons.wikimedia.org/wiki/File:Mount_Erciyes_(Argaeus),_Turkey_(31870998063).jpg",
+    "author": "Carole Raddato from FRANKFURT, Germany",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "latitude": 38.7225,
+    "longitude": 35.4875
+  },
+  {
+    "city": "Konya",
+    "resource": "city_42",
+    "source": "https://commons.wikimedia.org/wiki/File:Konyaaltincarsi.jpg",
+    "author": "Konya Karatay Belediyesi",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "latitude": 37.87444444,
+    "longitude": 32.49305556
+  },
+  {
+    "city": "Malatya",
+    "resource": "city_44",
+    "source": "https://commons.wikimedia.org/wiki/File:Turgut_%C3%96zal_Tabiat_Park%C4%B1_G%C3%B6l.jpg",
+    "author": "L.Versoa",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 38.35018056,
+    "longitude": 38.31666944
+  },
+  {
+    "city": "Manisa",
+    "resource": "city_45",
+    "source": "https://commons.wikimedia.org/wiki/File:Manisa_Muradiye_Camii_Muradiye_Camii_side_to_southwest_6124.jpg",
+    "author": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 38.61444444,
+    "longitude": 27.42916667
+  },
+  {
+    "city": "Kahramanmaraş",
+    "resource": "city_46",
+    "source": "https://commons.wikimedia.org/wiki/File:Kahramanmara%C5%9F_city_center.jpg",
+    "author": "Myrat",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 37.58333333,
+    "longitude": 36.93333333
+  },
+  {
+    "city": "Mardin",
+    "resource": "city_47",
+    "source": "https://commons.wikimedia.org/wiki/File:Mardin,_Mardin_Merkez-Mardin,_Turkey_-_panoramio_(1).jpg",
+    "author": "Ben Bender",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "latitude": 37.31305556,
+    "longitude": 40.735
+  },
+  {
+    "city": "Muğla",
+    "resource": "city_48",
+    "source": "https://commons.wikimedia.org/wiki/File:Mu%C4%9Fla_fortress_hill_5810.jpg",
+    "author": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 37.21666667,
+    "longitude": 28.36666667
+  },
+  {
+    "city": "Ordu",
+    "resource": "city_52",
+    "source": "https://commons.wikimedia.org/wiki/File:Ordu,_Turkey.JPG",
+    "author": "Ahmet Gürsakal",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "latitude": 40.98333333,
+    "longitude": 37.88333333
+  },
+  {
+    "city": "Rize",
+    "resource": "city_53",
+    "source": "https://commons.wikimedia.org/wiki/File:Georgian_Laz_people_monument_in_Rize_(Modern_Day_Turkey).jpg",
+    "author": "Gaga.vaa",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 41.02472222,
+    "longitude": 40.52222222
+  },
+  {
+    "city": "Samsun",
+    "resource": "city_55",
+    "source": "https://commons.wikimedia.org/wiki/File:Samsun_kolaj_(2018,_2).png",
+    "author": "Cobija",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 41.29027778,
+    "longitude": 36.33361111
+  },
+  {
+    "city": "Sivas",
+    "resource": "city_58",
+    "source": "https://commons.wikimedia.org/wiki/File:Sivas_Cumhuriyet_Meydan%C4%B1_in_2011_8145.jpg",
+    "author": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 39.75055556,
+    "longitude": 37.015
+  },
+  {
+    "city": "Tekirdağ",
+    "resource": "city_59",
+    "source": "https://commons.wikimedia.org/wiki/File:Tekirda%C4%9F_Valilik.JPG",
+    "author": "Ollios",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "latitude": 40.97777778,
+    "longitude": 27.51527778
+  },
+  {
+    "city": "Tokat",
+    "resource": "city_60",
+    "source": "https://commons.wikimedia.org/wiki/File:Tokat_%C5%9Fehir_panoramas%C4%B1_2012.JPG",
+    "author": "Lubunya",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 40.31388889,
+    "longitude": 36.55416667
+  },
+  {
+    "city": "Trabzon",
+    "resource": "city_61",
+    "source": "https://commons.wikimedia.org/wiki/File:Trebisonda,_ex-chiesa_della_panagia_Chrysokephalos,_oggi_moschea_fatih,_esterno_01.jpg",
+    "author": "Francesco Bini",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 41.005,
+    "longitude": 39.7225
+  },
+  {
+    "city": "Tunceli",
+    "resource": "city_62",
+    "source": "https://commons.wikimedia.org/wiki/File:D%C3%AArsim.jpg",
+    "author": "Dûrzan Cîrano",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 39.10638889,
+    "longitude": 39.54722222
+  },
+  {
+    "city": "Şanlıurfa",
+    "resource": "city_63",
+    "source": "https://commons.wikimedia.org/wiki/File:Mevlid-i_Halil_Mosque_19.jpg",
+    "author": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "latitude": 37.15833333,
+    "longitude": 38.79166667
+  },
+  {
+    "city": "Uşak",
+    "resource": "city_64",
+    "source": "https://commons.wikimedia.org/wiki/File:Mendepazar%C4%B1.JPG",
+    "author": "The original uploader was Mesi64 at Turkish Wikipedia.",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "latitude": 38.67777778,
+    "longitude": 29.40416667
+  },
+  {
+    "city": "Van",
+    "resource": "city_65",
+    "source": "https://commons.wikimedia.org/wiki/File:Ho%C5%9Fap_24_05_2010_Burg.jpg",
+    "author": "Volker Höhfeld",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 38.49416667,
+    "longitude": 43.38
+  },
+  {
+    "city": "Yozgat",
+    "resource": "city_66",
+    "source": "https://commons.wikimedia.org/wiki/File:Ormanc%C4%B1lar%C4%B1n_Emekleri_Burada_-_panoramio.jpg",
+    "author": "AHMET AKGÜL",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "latitude": 39.82083333,
+    "longitude": 34.80833333
+  },
+  {
+    "city": "Zonguldak",
+    "resource": "city_67",
+    "source": "https://commons.wikimedia.org/wiki/File:Zonguldak_58.jpg",
+    "author": "İncelemeelemani",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 41.45638889,
+    "longitude": 31.79861111
+  },
+  {
+    "city": "Aksaray",
+    "resource": "city_68",
+    "source": "https://commons.wikimedia.org/wiki/File:AksarayClockTower.jpg",
+    "author": "NuriCanY",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 38.37416667,
+    "longitude": 34.02888889
+  },
+  {
+    "city": "Karaman",
+    "resource": "city_70",
+    "source": "https://commons.wikimedia.org/wiki/File:Karaman_castle_4868.jpg",
+    "author": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 37.18194444,
+    "longitude": 33.21805556
+  },
+  {
+    "city": "Batman",
+    "resource": "city_72",
+    "source": "https://commons.wikimedia.org/wiki/File:Batman%C3%AA-3.jpg",
+    "author": "Dûrzan cîrano",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "latitude": 37.887,
+    "longitude": 41.132
+  },
+  {
+    "city": "Iğdır",
+    "resource": "city_76",
+    "source": "https://commons.wikimedia.org/wiki/File:I%C4%9Fd%C4%B1r_ve_A%C4%9Fr%C4%B1_Da%C4%9F%C4%B1.jpg",
+    "author": "Sabri76",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "latitude": 39.92083333,
+    "longitude": 44.04444444
+  },
+  {
+    "city": "Yalova",
+    "resource": "city_77",
+    "source": "https://commons.wikimedia.org/wiki/File:Umuttur_Yalova.JPG",
+    "author": "E-92",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 40.65833333,
+    "longitude": 29.27
+  },
+  {
+    "city": "Karabük",
+    "resource": "city_78",
+    "source": "https://commons.wikimedia.org/wiki/File:Karab%C3%BCk_view_8028.jpg",
+    "author": "Dosseman",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 41.19861111,
+    "longitude": 32.62638889
+  },
+  {
+    "city": "Kilis",
+    "resource": "city_79",
+    "source": "https://commons.wikimedia.org/wiki/File:Kilis_city_center.jpg",
+    "author": "Brian Dell",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "latitude": 36.71666667,
+    "longitude": 37.11666667
+  },
+  {
+    "city": "Osmaniye",
+    "resource": "city_80",
+    "source": "https://commons.wikimedia.org/wiki/File:Osmaniye_flag.JPG",
+    "author": "Afjaskaflaskl",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "latitude": 37.075,
+    "longitude": 36.25
+  },
+  {
+    "city": "Düzce",
+    "resource": "city_81",
+    "source": "https://commons.wikimedia.org/wiki/File:645x344-1573480687396.jpg",
+    "author": "sabah gazetesi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "latitude": 40.84166667,
+    "longitude": 31.15833333
+  }
+]

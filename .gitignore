@@ -1,0 +1,27 @@
+*.iml
+.gradle/
+.kotlin/
+/local.properties
+/keystore.properties
+*.jks
+*.keystore
+.idea/
+.DS_Store
+build/
+/captures
+.externalNativeBuild/
+.cxx/
+
+# Private configuration and generated packages
+local.properties
+.env
+.env.*
+*.apk
+*.aab
+*.apks
+*.dex
+*.hprof
+*.log
+*.pem
+*.p12
+*.pfx
